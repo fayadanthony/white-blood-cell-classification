@@ -1,0 +1,28 @@
+# Dataset and generated artifacts
+data/
+outputs/
+*.pt
+*.pth
+*.ckpt
+submission.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environments and local configuration
+.venv/
+venv/
+.env
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
